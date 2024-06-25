@@ -2,6 +2,11 @@
 
 This project implements a versatile chatbot interface that supports question-answering (Q&A) and Retrieval-Augmented Generation (RAG) using SQL databases and tabular data. It leverages Gradio for the user interface and integrates various AI and database technologies for efficient information retrieval and processing.
 
+## Sample Image
+
+![image](https://github.com/Gnaneshwar03/ChatDB/assets/107243397/c5bc1aa5-b8e0-4897-89ad-e86891bfa15a)
+
+
 ## Features
 
 - Interactive chat interface with support for multiple functionalities
