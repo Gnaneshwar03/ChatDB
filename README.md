@@ -6,6 +6,7 @@ This project implements a versatile chatbot interface that supports question-ans
 
 ![image](https://github.com/Gnaneshwar03/ChatDB/assets/107243397/c5bc1aa5-b8e0-4897-89ad-e86891bfa15a)
 
+![image](https://github.com/Gnaneshwar03/ChatDB/assets/107243397/a815fc06-babd-4d29-b653-4d00ae97af4a)
 
 ## Features
 
