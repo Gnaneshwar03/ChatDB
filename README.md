@@ -1,4 +1,4 @@
-# ChatDB, Q&A and RAG with SQL and Tabular Data
+# ChatDB: Q&A and RAG with SQL and Tabular Data
 
 This project implements a versatile chatbot interface that supports question-answering (Q&A) and Retrieval-Augmented Generation (RAG) using SQL databases and tabular data. It leverages Gradio for the user interface and integrates various AI and database technologies for efficient information retrieval and processing.
 
