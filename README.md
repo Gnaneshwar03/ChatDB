@@ -4,9 +4,9 @@ This project implements a versatile chatbot interface that supports question-ans
 
 ## Images
 
-![image](https://github.com/Gnaneshwar03/ChatDB/assets/107243397/c5bc1aa5-b8e0-4897-89ad-e86891bfa15a)
+![image](https://github.com/gnaneshwar-vadlamudi/ChatDB/assets/107243397/c5bc1aa5-b8e0-4897-89ad-e86891bfa15a)
 
-![image](https://github.com/Gnaneshwar03/ChatDB/assets/107243397/a815fc06-babd-4d29-b653-4d00ae97af4a)
+![image](https://github.com/gnaneshwar-vadlamudi/ChatDB/assets/107243397/a815fc06-babd-4d29-b653-4d00ae97af4a)
 
 ## Features
 
@@ -31,7 +31,7 @@ This project implements a versatile chatbot interface that supports question-ans
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Gnaneshwar03/ChatDB
+   git clone https://github.com/gnaneshwar-vadlamudi/ChatDB
    ```
 
 2. Install the required dependencies:
